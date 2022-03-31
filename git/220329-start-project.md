@@ -1,7 +1,13 @@
 # Git start
 
-## add
+## git add
 
-## commit
+file go to the staging area
 
-## push
+## git commit
+
+file go to the localrepo
+
+## git push
+
+file go to remoterepo
