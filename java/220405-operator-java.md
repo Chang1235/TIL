@@ -3,7 +3,7 @@
 ## 1. 산술연산 
 
 | 연산자 | 설명 |
-|:----------|:----------:|
+|:----------:|:----------:|
 | + | 더하기 |
 | - | 빼기 |
 | * | 곱하기 |
@@ -12,11 +12,11 @@
 
 ** 복합 할당 연산자**
 
-- sum += number : sum = sum + number
-- sum -= number : sum = sum - number
-- sum *= number : sum = sum * number
-- sum /= number : sum = sum / number
-- sum %= number : sum = sum % number
+- `sum += number` -> `sum = sum + number`
+- `sum -= number` -> `sum = sum - number`
+- `sum *= number` -> `sum = sum * number`
+- `sum /= number` -> `sum = sum / number`
+- `sum %= number` -> `sum = sum % number`
 
 ## 2. 증감 연산자 
 
@@ -53,7 +53,7 @@
 ## 6. 비트 연산자
 
 | 연산자  | 설명 | 예 | 
-|:----------|:----------:|----------:|
+|:----------:|:----------:|:----------:|
 | `~` | 비트의반환(1의 보수) | a = ~a; |
 | `&` | 비트단위 AND | 1&1 1반환 그 외는 0 |
 | `|` | 비트단위 OR | `0|0` 0반환 그외는 1|
